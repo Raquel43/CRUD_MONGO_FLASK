@@ -27,7 +27,7 @@ $ sudo service mongod start
 then, run the program:
 
 ```
-$ python run.py
+$ python app.py
 ```
 
 Open your browser and go to `localhost:4000 ` to see the running program.
